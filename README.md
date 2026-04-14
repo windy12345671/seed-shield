@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform: WeChat Mini Program](https://img.shields.io/badge/Platform-WeChat%20Mini%20Program-07C160)](https://developers.weixin.qq.com/miniprogram/dev/index.html)
 [![Language: Chinese](https://img.shields.io/badge/Language-简体中文-blue.svg)](README.md)
-[![GitHub Stars](https://img.shields.io/github/stars/your-org/seed-shield?style=social)](https://github.com/your-org/seed-shield/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/windy12345671/seed-shield?style=social)](https://github.com/windy12345671/seed-shield/stargazers)
 
 ---
 
@@ -17,8 +17,10 @@
 
 平台整合 **AI 表型比对**、**区块链存证**、**品种权管理** 三大核心能力，帮助育种企业快速发现侵权、固定证据、高效维权。
 
-> 🔗 **在线体验主页**: https://windy12345671.github.io/seed-shield/
-> 📱 **小程序码**: [扫码体验](#) （开发中）
+> 🔗 **在线体验主页**: https://windy12345671.github.io/seed-shield
+> 📱 **小程序码**: 扫描下方二维码体验种盾小程序
+
+![种盾小程序二维码](assets/miniprogram_qr.png)
 
 ---
 
@@ -87,7 +89,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-org/seed-shield.git
+git clone https://github.com/windy12345671/seed-shield.git
 cd seed-shield
 ```
 
@@ -173,8 +175,8 @@ seed-shield/
 
 ### 贡献者名单
 
-<a href="https://github.com/your-org/seed-shield/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-org/seed-shield" width="120" />
+<a href="https://github.com/windy12345671/seed-shield/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=windy12345671/seed-shield" width="120" />
 </a>
 
 ---
